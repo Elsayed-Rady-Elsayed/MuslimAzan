@@ -1,0 +1,17 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 20px;
+  background-color: #c0583e75;
+  color: #fff;
+  margin: 10px 0;
+  border-radius: 10px;
+  border: 1px solid #d7d7d74e;
+}
+
+.card .name {
+}
+
+.card .time {
+}
